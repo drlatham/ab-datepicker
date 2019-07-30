@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/drlatham/ab-datepicker/issues"
   },
-  "homepage": "https://github.com/drlatham/ab-datepicker#readme"
+  "homepage": "https://github.com/drlatham/ab-datepicker#readme",
+  "dependencies": {}
 }
