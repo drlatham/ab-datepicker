@@ -2,7 +2,7 @@
   "name": "ab-datepicker",
   "version": "1.0.0",
   "description": "ab-datepicker is an accessible datepicker based on the example of the Open AJAX Alliance Accessibility Tools Task Force : [http://www.oaa-accessibility.org/examplep/datepicker1/](http://www.oaa-accessibility.org/examplep/datepicker1/) and Inspired by [http://wet-boew.github.io/wet-boew/demos/datepicker/datepicker-en.html](http://wet-boew.github.io/wet-boew/demos/datepicker/datepicker-en.html)",
-  "main": "index.js",
+  "main": ".js/datepicker.js",
   "directories": {
     "test": "tests"
   },
@@ -19,5 +19,7 @@
     "url": "https://github.com/drlatham/ab-datepicker/issues"
   },
   "homepage": "https://github.com/drlatham/ab-datepicker#readme",
-  "dependencies": {}
+  "dependencies": {
+    "jquery": ">=1.7.1 <4.0.0"
+  }
 }
